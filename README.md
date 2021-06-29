@@ -2,7 +2,7 @@
 
 - 🤓 I’m interested in becomming a full stack developer
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/start/) and Python, as well as C# and the .NET framework!
-- 💞️ I’m looking to collaborate on web design projects, as well as anything to learn back end development more!
+- 🍻 I’m looking to collaborate on web design projects, as well as anything to learn back end development more!
 - 📫 Feel free to shoot me an email at tylerantoni1025@icloud.com, or visit my website https://www.tylerantoni.com for all of my contact links!
 
 <!---
