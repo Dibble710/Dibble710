@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m Tyler! I am currently a front end developer with experience with [React](https://reactjs.org/) and [Vue.js](https://vuejs.org/)!
 
 - 🤓 I’m interested in becomming a full stack developer
-- 🌱 I’m currently learning [Unity](https://unity.com/) and video game development using C# and .NET!
+- 🌱 I’m currently learning [Django](https://www.djangoproject.com/) as well as development using C# and .NET framwework!
 - 🍻 I’m looking to collaborate on web design projects, as well as anything to learn back end development more!
 - 📫 Feel free to shoot me an email at tylerantoni1025@icloud.com, or visit my website https://www.tylerantoni.com for all of my contact links!
 
