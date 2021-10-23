@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Tyler! I am currently a front end developer with experience with [React](https://reactjs.org/), [Angular](https://angular.io/), and .NET 5!
+# - 👋 Hi, I’m Tyler! I am currently a front end developer with experience with [React](https://reactjs.org/), [Vue](https://vuejs.org/), and .NET 5!
 
 - 🤓 I’m interested in becomming a full stack developer
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) and Python, as well as API development using C# and .NET 5!
